@@ -1,2 +1,2 @@
 # RedditBot
-Reddit Music Bot
+Meeseeks Bot

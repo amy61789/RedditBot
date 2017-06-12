@@ -4,11 +4,7 @@ from datetime import datetime
 
 def bot_login():
     print("Logging in...")
-    r = praw.Reddit(username = "kimchiqween",
-            password = "Seattlerain17",
-            client_id = "f5hJLexO_19yuw",
-            client_secret = "_DdsEjIRsRGL0PyTT4cpmxrWnh0",
-            user_agent = "Meeseeks Test v0.1")
+    r = praw.
     print("Logged in!")
 
     return r
